@@ -13,13 +13,13 @@ class="close" title="Close Modal">&times;</span>
     </div>
 
     <div class="container">
-      <label for="uname"><b>Username</b></label>
+      <label for="uname"><b>Enter Username</b></label>
       <input type="text" placeholder="Enter Username" name="uname" required>
 
-      <label for="psw"><b>Password</b></label>
+      <label for="psw"><b>Enter Password</b></label>
       <input type="password" placeholder="Enter Password" name="psw" required>
 
-      <button type="submit">Login</button>
+      <button type="submit">Login Button </button>
       <label>
         <input type="checkbox" checked="checked" name="remember"> Remember me
       </label>
